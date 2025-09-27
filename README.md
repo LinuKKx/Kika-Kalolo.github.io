@@ -14,3 +14,7 @@ I'm a sucker for dogs and this example is what a phishing attack is. Hackers are
 ![image alt](https://github.com/LinuKKx/Kika-Kalolo.github.io/blob/fd876096c3eca0d8a1fbd919f16863b049e3764d/phish.jpg)
 
 I should NOT have clicked on that link but how could I not, right? [hmm...](https://tenor.com/view/cry-baby-gif-18066164)
+
+# Cryptography
+
+As fascinating as it was, the results was worth it!
