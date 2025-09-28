@@ -13,11 +13,9 @@ I'm a sucker for dogs and this example is what a phishing attack is. Hackers are
 
 ![phish](https://github.com/user-attachments/assets/bcf26851-281f-4d16-90e9-7dda88c996d3)
 
-I should NOT have clicked on that link but how could I not, right? 
+**I should NOT have clicked on that link but how could I not, right?**
 
 ![hacked](https://github.com/user-attachments/assets/e22cfcbd-5d30-48d0-9cb9-8ac5cd3e3e27)
-
-
 
 # Cryptography
 
