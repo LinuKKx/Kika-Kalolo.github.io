@@ -3,7 +3,7 @@ Exploring a new platform where developers make coding look easy
 
 # AI
 
-This [video](https://www.youtube.com/watch?v=F4WZ_k0vUDM) appeared on my newsfeed a few years back - advanced technology at its finest (AI capabilities). What seemed harmless was otherwise considered as being detrimental to our tamaiti (children). There is no better way to explain it, than to watch it.
+This [video](https://www.youtube.com/watch?v=F4WZ_k0vUDM) appeared on my newsfeed a few years back - advanced technology with AI capabilities. What seemed harmless at first turned out to being detrimental to our tamaiti (children) future. There is no better way to explain it, than to watch the video.
 
 # PHISHING ATTACKS
 
