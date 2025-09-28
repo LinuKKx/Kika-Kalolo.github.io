@@ -1,4 +1,4 @@
-# Kika-Kalolo
+# Kika Kalolo
 Exploring a new platform where developers make coding look easy
 
 # AI
