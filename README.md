@@ -20,9 +20,9 @@ A few tips to consider before clicking on a link:
 
 # Cryptography
 
-This is Plaintext![plaintext](https://github.com/user-attachments/assets/a427079f-b91c-49e9-ae4e-ce67d7f23463)
-I want to sorta hide it![hide](https://github.com/user-attachments/assets/fea42c4a-50b0-474b-8f54-f66911bfa761)
-Then completely hide the ![text](https://github.com/user-attachments/assets/e3fea4e9-63e4-469c-8281-c3f60108121f)
+This is [Plaintext](https://github.com/user-attachments/assets/a427079f-b91c-49e9-ae4e-ce67d7f23463)
+I want to sorta [hide it](https://github.com/user-attachments/assets/fea42c4a-50b0-474b-8f54-f66911bfa761)
+Then completely [hide the text](https://github.com/user-attachments/assets/e3fea4e9-63e4-469c-8281-c3f60108121f)
 
 
 
