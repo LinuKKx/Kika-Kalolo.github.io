@@ -13,8 +13,8 @@ I'm a sucker for dogs and this example is what a phishing attack is. Hackers are
 
 ![image_alt](https://github.com/LinuKKx/Kika-Kalolo.github.io/blob/fd876096c3eca0d8a1fbd919f16863b049e3764d/phish.jpg)
 
-I should NOT have clicked on that link but how could I not, right? [hmm...](![giphy](https://github.com/user-attachments/assets/bf97cad8-9d6a-443a-8061-fc8d3ca18912)
-)
+I should NOT have clicked on that link but how could I not, right? [hmm...]![giphy](https://github.com/user-attachments/assets/bf97cad8-9d6a-443a-8061-fc8d3ca18912)
+
 
 # Cryptography
 
