@@ -1,4 +1,4 @@
-# Kika-Kalolo.github.io
+# Kika-Kalolo
 Exploring a new platform where developers make coding look easy
 
 # AI
@@ -9,9 +9,11 @@ This [video](https://www.youtube.com/watch?v=F4WZ_k0vUDM) appeared on my newsfee
 
 **TRUE STORY!!**
 
-I'm a sucker for dogs and this example is what a phishing attack is. Hackers are becoming more brazen in their efforts to trick you...whatever your kryptonite is. Be mindful of clicking onto links. It's OKAY to ask the sender "what is it?". NEVER assume that the link is SAFE because you know the sender. ALWAYS stay vigilant. [So this happened:]![image_alt](https://github.com/LinuKKx/Kika-Kalolo.github.io/blob/fd876096c3eca0d8a1fbd919f16863b049e3764d/phish.jpg)
+I'm a sucker for dogs and this example is what a phishing attack is. Hackers are becoming more brazen in their efforts to trick you...whatever your kryptonite is. Be mindful of clicking onto links. It's OKAY to ask the sender "what is it?". NEVER assume that the link is SAFE because you know the sender. ALWAYS stay vigilant. (https://github.com/LinuKKx/Kika-Kalolo.github.io/blob/fd876096c3eca0d8a1fbd919f16863b049e3764d/phish.jpg)
 
-I should NOT have clicked on that link but how could I not, right? [hmm...]![hacked](https://github.com/user-attachments/assets/e22cfcbd-5d30-48d0-9cb9-8ac5cd3e3e27)
+I should NOT have clicked on that link but how could I not, right? 
+
+![hacked](https://github.com/user-attachments/assets/e22cfcbd-5d30-48d0-9cb9-8ac5cd3e3e27)
 
 
 
