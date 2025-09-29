@@ -15,7 +15,7 @@ A few tips to consider before clicking on a link
 1. It's OK to ask the sender "what is it?".
 2.  NEVER assume that the link is SAFE because you know the sender.
 3.  Look for spelling errors.
-4.  If you are not expecting an email for an software update, do not click.
+4.  If you are not expecting an email from someone or from a company, do not click.
    
 **I should NOT have clicked on that link but how could I not, right?**
 
