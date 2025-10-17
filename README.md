@@ -28,3 +28,5 @@ Then completely [hide the text](https://github.com/user-attachments/assets/e3fea
 # Programming
 
 I want to write an interactive code using this platform but this is yet to be determined.
+
+After many trials and errors, I created a simple, yet short interactive algorithm that prompts users to enter data which is measured by how the user responded.
