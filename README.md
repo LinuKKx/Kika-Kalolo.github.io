@@ -29,5 +29,5 @@ Then completely [hide the text](https://github.com/user-attachments/assets/e3fea
 
 I want to write an interactive code using this platform but this is yet to be determined.
 
-After many trials and errors, I wrote a simple algorithm[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinuKKx/Kika-Kalolo.github.io/blob/main/UserInput.ipynb)
+After many trials and errors, I wrote a simple algorithm [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinuKKx/Kika-Kalolo.github.io/blob/main/UserInput.ipynb)
  that prompts users to enter data.
