@@ -16,8 +16,6 @@ A few tips to consider before clicking on a link
 2.  NEVER assume that the link is SAFE because you know the sender.
 3.  Look for spelling errors.
 4.  If you are not expecting an email from someone or from a company, do **not** click it.
-   
-**I should NOT have clicked on that link but how could I not, right?**
 
 # Cryptography
 
@@ -27,7 +25,9 @@ Then completely [hide the text](https://github.com/user-attachments/assets/e3fea
 
 # Programming
 
-I want to write an interactive code using this platform but this is yet to be determined.
-
 After many trials and errors, I wrote a simple algorithm [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LinuKKx/Kika-Kalolo.github.io/blob/main/UserInput.ipynb)
- that prompt users to enter data.
+ that prompts a user to enter data.
+
+# How Exposed Am I?
+
+In today's rapidly evolving tech world, every new "must-have" comes with risks. Many of us are left vulnerable when hackers get their hands on our personal data and have exposed us to the dark-web (bad site). Lucky for you, here is a [link](https://www.howexposedami.co.nz/) to check if you've fallen victim to the World Wide Web (WWW).
