@@ -1,9 +1,10 @@
 # Kika Kalolo
 Exploring a new platform where developers make coding look easy
 
-# SCAM ALERT!
+# SCAM ALERT! Steps to Reporting it to DIA
 
-A few days ago, Monday 14th September 202226 to be eeeeexactt
+On Monday 14th September 2026 - an unwanted random text message arrived to my Inbox. To a fraction of society, some would delete the message, others would ignore the message, and then there is the vast majority of the population that would *sighs* definately, as difficult as it is to hear this but...respond to it. Truth be told, report it to the Department of Internal Affairs by forwarding the text message to 7726. Whatever you do, for the love of God, do NOT respond or click on any hyper-linked text in that message.
+
 # AI 
 
 This [video](https://www.youtube.com/watch?v=F4WZ_k0vUDM) appeared on my newsfeed a few years back - regarding AI capabilities. What seemed harmless at first is actually detrimental to our childrens' future. There is no better way to explain it, than to watch the video.
