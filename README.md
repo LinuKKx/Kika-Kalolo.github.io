@@ -9,7 +9,9 @@ It isn't because they're weak. It's a genuine reaction of the psychological huma
 
 There is a way to prevent this from happening to you and please don't be the 2% of the population that says "bleh, that would never happen to me..." because 98% of those that fall victim to a scam, are usually the 2% that strongly believe they're untouchable... (mate, don't be that guy!) Remain vigilant. Be safe!
 
-Truth be told, not many people are aware they can report it to Department of Internal Affairs (DIA) by forwarding the text message to 7726. Whatever you do, don't click on the hyper-link and **NEVER** respond! For more information visit DIA @[Spam Report TXT](https://www.dia.govt.nz/Spam-Report-TXT-Spam) 
+Truth be told, not many people are aware they can report it to Department of Internal Affairs (DIA) by forwarding the text message to 7726. Whatever you do, don't click on the hyper-link and **NEVER** respond! Look for cues that scream DANGER, such as typo (dead giveaway). A good hacker would create a meticulous replicated interface with all the right characters. For example, in this image, the text "Encrypted", layout and fontsize, clearly stated paragraph, colour coded text but hidden behind these are far sinister viruses just waiting for a way in on your device. Just do what I do. IGNORE the message, report it a few days later because I thought I was doing my due diligence and reporting it straight away...only to realize, wait, no I actually didn't. Yikes! Doing it now....type type type to 7726, there done! Satisfied.
+
+For more information visit DIA @[Spam Report TXT](https://www.dia.govt.nz/Spam-Report-TXT-Spam) 
 Alternatively, google search SPAM REPORT TXT if you're sceptical about the link (which contradicts my prior advice).
 
 <img width="350" height="450" alt="AusText" src="https://github.com/user-attachments/assets/fc903c8c-c1d1-4077-89cf-6895eeb06889" />
