@@ -4,7 +4,8 @@ Exploring a new platform where developers make coding look easy
 # SCAM ALERT! Steps to Reporting it to DIA
 
 On Monday 14th September 2026 - an unwanted random text message arrived to my Inbox. To a fraction of society, some would delete the message, others would ignore the message, and then there's the vast majority of the population that would definately respond to it. Truth be told, not many people are aware that they can report it to the Department of Internal Affairs by forwarding the text message to 7726. Whatever you do, for the love of God, do **NOT** respond or click on any hyper-linked text in that message. 
-<img width="250" height="400" alt="Scam" src="https://github.com/user-attachments/assets/1728c3c8-96e2-451d-8ac0-5152740a522e" />
+
+<img width="350" height="400" alt="Scam" src="https://github.com/user-attachments/assets/1728c3c8-96e2-451d-8ac0-5152740a522e" />
 
 
 # AI 
