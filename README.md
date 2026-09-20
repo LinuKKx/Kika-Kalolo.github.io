@@ -3,8 +3,11 @@ Exploring a new platform where developers make coding look easy
 
 ## SCAM ALERT! 
 
-On Monday 14th September 2026 - I received an ***unwanted*** text message to my Inbox. A fraction of society would delete it. Others would ignore it but a vast majority of the population would respond. It isn't because they're weak. It's a genuine reaction of the psychological human behaviour to respond. The brain doesn't process the message as a threat, yet. Rather, the opposite by analyzing the message which appears to be genuine, endearing, friendly and unknowingly to the receiver (usually you) they're about to be victimized. This is called Social Engineering. Believe it or not, the brain hasn't fully grasped any triggers yet until it's too late. 
-There is a way to prevent this from happening to you and please don't be the 2% of the population that says "bleh, that never happens to me..." because 98% of those that fall victim to a scam, are usually the 2% that believe they're untouchable (mate, don't be that guy!) Stay vigilant, always. 
+On Monday 14th September 2026 - I received an ***unwanted*** text message to my Inbox. A fraction of society would delete it. Others would ignore it but a vast majority of the population would respond. 
+
+It isn't because they're weak. It's a genuine reaction of the psychological human behaviour to respond. The brain doesn't process the message as a threat, yet. Rather, the opposite by analyzing the message which appears to be incredibly genuine, endearing, friendly and unknowingly to the receiver (usually you) they're about to be victimized. This is called Social Engineering. 
+
+There is a way to prevent this from happening to you and please don't be the 2% of the population that says "bleh, that would never happen to me..." because 98% of those that fall victim to a scam, are usually the 2% that strongly believe they're untouchable... (mate, don't be that guy!) Remain vigilant. Be safe!
 
 Truth be told, not many people are aware they can report it to Department of Internal Affairs (DIA) by forwarding the text message to 7726. Whatever you do, don't click on the hyper-link and **NEVER** respond! For more information visit DIA @[Spam Report TXT](https://www.dia.govt.nz/Spam-Report-TXT-Spam) 
 Alternatively, google search SPAM REPORT TXT if you're sceptical about the link (which contradicts my prior advice).
