@@ -3,7 +3,7 @@ Exploring a new platform where developers make coding look easy
 
 ## SCAM ALERT! 
 
-On Monday 14th September 2026 - an unwanted random text message arrived to my Inbox. To a fraction of society, some would delete it, others would ignore it, and a vast majority of the population will respond to it. Truth be told, not many people are aware they can report it to Department of Internal Affairs (DIA) by forwarding the text message to 7726. Whatever you do, for the love of God, do **NOT** respond! For more information visit DIA @[Spam Report TXT](https://www.dia.govt.nz/Spam-Report-TXT-Spam)
+On Monday 14th September 2026 - I received an ##unwanted## text message to my Inbox (I wanted to emphasize on the word, "UNWANTED"). To a fraction of society, some would delete it, others would ignore it, and a vast majority of the population will respond to it. Truth be told, not many people are aware they can report it to Department of Internal Affairs (DIA) by forwarding the text message to 7726. Whatever you do, for the love of God, do **NOT** respond! For more information visit DIA @[Spam Report TXT](https://www.dia.govt.nz/Spam-Report-TXT-Spam)
 
 <img width="350" height="450" alt="AusText" src="https://github.com/user-attachments/assets/fc903c8c-c1d1-4077-89cf-6895eeb06889" />
 
