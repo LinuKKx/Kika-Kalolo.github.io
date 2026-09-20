@@ -3,6 +3,7 @@ Exploring a new platform where developers make coding look easy
 
 # SCAM ALERT!
 
+A few days ago, Monday 14th September 202226 to be eeeeexactt
 # AI 
 
 This [video](https://www.youtube.com/watch?v=F4WZ_k0vUDM) appeared on my newsfeed a few years back - regarding AI capabilities. What seemed harmless at first is actually detrimental to our childrens' future. There is no better way to explain it, than to watch the video.
