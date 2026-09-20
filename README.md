@@ -38,4 +38,8 @@ After many trials and errors, I wrote a simple algorithm [![Open In Colab](https
 
 # How Exposed Am I?
 
-In today's rapidly evolving tech world, every new "must-have" comes with risks. Many of us are left vulnerable when hackers get their hands on our personal data and have exposed us to the dark-web (bad site). Lucky for you, here is a [link](https://www.howexposedami.co.nz/) to check if you've fallen victim to the World Wide Web (WWW).
+In today's rapidly evolving tech world, every new "must-have" comes with risks. Many of us are left vulnerable when hackers get their hands on our personal data and have exposed us to the dark-web (bad site). Lucky for you, here is a [link](https://www.howexposedami.co.nz/) to check if you've fallen victim to the World Wide Web (WWW). In 2023, I was exposure-free until I checked back in 2025 by going to this website and entering my email address and much to my dismay, what can you do! Hackers are either brilliant or the company that held my data are using a system that isn't robust enough [video]()
+
+
+
+
